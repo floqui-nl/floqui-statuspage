@@ -5,7 +5,7 @@ date: 2024-09-27T07:00:18.361Z
 resolved: false
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2024-09-27T07:15:18.371Z
 affected:
   - IMAP / POP3 / SMTP
