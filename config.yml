@@ -41,9 +41,11 @@ params:
       category: Websites
     - name: OctoberCMS
       category: Websites
-    - name: Formulieren
+    - name: Freescout
       category: Websites
     - name: IMAP / POP3 / SMTP
+      category: Mail
+    - name: Webmail
       category: Mail
     - name: SMTP relay
       category: Mail
@@ -54,18 +56,23 @@ params:
       category: Overig
     - name: Budibase
       category: Overig
+      description: Dashboard en automatiseringssoftware voor de integratie van
+        verschillende systemen via API's
     - name: Appwrite
       category: Overig
+      description: API-only backend systeem voor databases, authenticatie, opslag en
+        functies voor websites.
+    - name: Formulieren
+      category: Overig
+      description: Software om geavanceerde formulieren mee te bouwen.
     - name: Klantenpaneel
       category: Overig
-    - name: Freescout
-      category: Websites
+      description: Paneel voor klanten van FloQui waar domeinen, DNS, mail, facturen
+        en abonnementen in beheerd worden.
     - name: Chatwoot
       category: Overig
       description: Paneel om contact met klanten via mail, live chat en WhatsApp
         business te centraliseren.
-    - name: Webmail
-      category: Mail
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
