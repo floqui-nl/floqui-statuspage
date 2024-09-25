@@ -5,7 +5,7 @@ date: 2024-09-25T20:30:00.000Z
 resolved: false
 draft: false
 informational: true
-pin: false
+pin: true
 resolvedWhen: 2024-09-25T21:30:00.000Z
 affected:
   - Wordpress
