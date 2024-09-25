@@ -2,7 +2,7 @@ title: FloQui Status
 buildFuture: true
 defaultContentLanguage: nl
 languageCode: nl
-baseURL: https://floqui-status.netlify.app
+baseURL: https://status.floqui.nl
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
@@ -60,6 +60,10 @@ params:
       category: Overig
     - name: Freescout
       category: Websites
+    - name: Chatwoot
+      category: Overig
+      description: Paneel om contact met klanten via mail, live chat en WhatsApp
+        business te centraliseren.
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
