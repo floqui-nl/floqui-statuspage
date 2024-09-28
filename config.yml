@@ -65,14 +65,16 @@ params:
     - name: Formulieren
       category: Overig
       description: Software om geavanceerde formulieren mee te bouwen.
-    - name: Klantenpaneel
-      category: Overig
-      description: Paneel voor klanten van FloQui waar domeinen, DNS, mail, facturen
-        en abonnementen in beheerd worden.
     - name: Chatwoot
       category: Overig
       description: Paneel om contact met klanten via mail, live chat en WhatsApp
         business te centraliseren.
+    - name: Ghost
+      category: Websites
+      description: CMS specifiek voor (betaalde) blogs.
+    - name: Mautic
+      category: Websites
+      description: Software voor mass mail marketing
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
