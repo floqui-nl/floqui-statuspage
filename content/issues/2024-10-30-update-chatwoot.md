@@ -2,11 +2,11 @@
 section: issue
 title: Chatwoot mobiele app werkt niet
 date: 2024-10-30T12:27:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-pin: true
-resolvedWhen: ""
+pin: false
+resolvedWhen: 2024-10-30T16:27:02.183Z
 affected:
   - Chatwoot
 severity: disrupted
