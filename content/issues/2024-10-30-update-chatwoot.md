@@ -5,7 +5,7 @@ date: 2024-10-30T12:27:00.000Z
 resolved: false
 draft: false
 informational: false
-pin: false
+pin: true
 resolvedWhen: ""
 affected:
   - Chatwoot
