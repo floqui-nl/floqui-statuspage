@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Update Chatwoot
+title: Chatwoot mobiele app werkt niet
 date: 2024-10-30T12:27:00.000Z
 resolved: false
 draft: false
