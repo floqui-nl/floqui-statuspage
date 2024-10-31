@@ -2,7 +2,7 @@
 section: issue
 title: Nextcloud update
 date: 2024-10-31T10:59:34.927Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
