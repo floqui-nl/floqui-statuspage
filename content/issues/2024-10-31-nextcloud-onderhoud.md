@@ -5,7 +5,7 @@ date: 2024-11-04T22:30:55.789Z
 resolved: false
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2024-11-05T07:00:55.795Z
 affected:
   - FloQui Cloud
