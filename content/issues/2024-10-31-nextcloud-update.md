@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 pin: true
-resolvedWhen: ""
+resolvedWhen: 2024-10-31T11:24:29.482Z
 affected:
   - FloQui Cloud
 severity: down
