@@ -75,6 +75,9 @@ params:
     - name: Mautic
       category: Websites
       description: Software voor mass mail marketing
+    - name: FloQui Login
+      category: Overig
+      description: Centraal loginsysteem voor toegang tot verscheidene apps.
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
