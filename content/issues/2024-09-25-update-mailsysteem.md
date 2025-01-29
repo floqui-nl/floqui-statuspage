@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Update mailsysteem
-date: 2024-09-27T07:25:00.000Z
-resolved: true
+date: 2025-01-29T21:11:23.027Z
+resolved: false
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-09-27T07:31:47.173Z
+resolvedWhen: ""
 affected:
   - IMAP / POP3 / SMTP
   - Webmail
