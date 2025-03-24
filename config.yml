@@ -78,6 +78,8 @@ params:
     - name: FloQui Login
       category: Overig
       description: Centraal loginsysteem voor toegang tot verscheidene apps.
+    - name: Strapi
+      category: Overig
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
