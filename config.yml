@@ -78,8 +78,9 @@ params:
     - name: FloQui Login
       category: Overig
       description: Centraal loginsysteem voor toegang tot verscheidene apps.
-    - name: Strapi
+    - name: n8n
       category: Overig
+      description: Software waarbinnen de automatisering geprogrammeerd worden.
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
